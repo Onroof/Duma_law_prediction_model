@@ -17,3 +17,13 @@ The models demonstrated the following results: 94% accuracy (F1 weighted metric)
 - 🛠 Models used: **Random Forest algorithm, Logistic regression, Neural network**
 - 📈 Metrics: F1 weighted metric, F1 macro, Ballanced accuracy, ROC AUC 
 
+
+### Information about the files
+- Tokenizer code transforms existing dataset's document text data into tokens to further use in the prediction 
+- Preprocessing_data code helps prepare data for future analysis 
+- Machine_learning_pass_law code represents the learning process by algorithms as well as the evaluation of algorithms' prediction
+- Neural_net replicates the same process but with neural network
+The files named:
+- Bills_full_info.part01-05 
+- Preprocessed_Bills_full_info.part01-06
+are the arhieved version of the dataset used for predicting and evaluating the results
